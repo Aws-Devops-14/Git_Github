@@ -10,6 +10,7 @@ Git--> It is a Version Control System
   Merge work from multiple developers
 
 Github--> GitHub is a cloud platform to store Git repositories online.
+      --> GitHub is a Centrally configured storage where we can maintain our source code
   Website to store & share your Git projects
   Remote storage for code
   Collaboration tools (for teams)

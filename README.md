@@ -1,6 +1,9 @@
 # Git_Github
 Git--> It is a Version Control System
   It helps you track changes in your code, save versions, and go back to old versions if needed.
+  Allows for Collabrative development.
+  A system that keep records of your changes
+  Allows you to know who made changes and when
   Track file changes
   Revert to previous versions
   Work on new features without breaking main code (branching)

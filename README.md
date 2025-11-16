@@ -53,3 +53,9 @@ Created by Linus                   Torvalds	Owned by Microsoft
    Mercurial
    Bazaar
    Simple idea: Every developer has the full project copy locally.
+
+   ---->SSH is a Secure way to connect your local computer to GitHub without entering username and password every time.
+     ---->ssh -keygen
+     ---->create keys---->upload public key in Github---->Githb Verifies---->password never neded
+
+

@@ -1,0 +1,13 @@
+                                  Git Workflow
+
+  *** Working Directory----------->Staging Area-------------->Local Area---------------->Remote Area
+                      add.py                  commit                    push
+
+ --> git init is used to initialize a new Git repository in your current project folder.
+     After running this command, that folder becomes a Git Working Directory.
+
+ --> git diff:- Compare changes of working directory with Local Repository
+ --> git diff --staged:- Compare changes of staging area with Local Repository
+ --> git diff HEAD:- Compare changes of working directory with Local Repository
+
+

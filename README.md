@@ -58,4 +58,9 @@ Created by Linus                   Torvalds	Owned by Microsoft
      ---->ssh -keygen
      ---->create keys---->upload public key in Github---->Githb Verifies---->password never neded
 
+---> fork is used to pull others repository to our repository between Github-------------------------Github
+                                                                                    fork the repo
+---> clone is a pull repository from Github to local repository like Github---------------------------Local Repository
+                                                                                      clone
+
 
